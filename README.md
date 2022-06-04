@@ -1,6 +1,10 @@
+<a href='https://python.org/'>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+ </a>
 
-### I'm a Python Developer💬
+### I'm Python Developer💬
+
+<h3>Check my worked:</h3> https://github.com/AleksZ8/Mini-Social-Network-
 
 <h3> Contact me </h3>
 <a href='http://t.me/alexzurn'>
@@ -16,7 +20,8 @@
 ### GitHub Stats 📊
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
