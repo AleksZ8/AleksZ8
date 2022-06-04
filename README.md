@@ -4,7 +4,7 @@
 
 ### I'm Python Developer💬
 
-<h3>Check my worked:</h3> https://github.com/AleksZ8/Mini-Social-Network-
+<h3>Monitoring my worked:</h3> https://github.com/AleksZ8/Mini-Social-Network-
 
 <h3> Contact me </h3>
 <a href='http://t.me/alexzurn'>
