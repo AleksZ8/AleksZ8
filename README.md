@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### GitHub Stats 📊
+### GitHub Stats 📊 Deprecated.
 
 
 
